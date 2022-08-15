@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1098687706274",
+    "project_id": "idhini-d448e",
+    "storage_bucket": "idhini-d448e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098687706274:android:d5e6e6827271d92dfbd3fb",
+        "android_client_info": {
+          "package_name": "com.mycompany.idhiniweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098687706274-3l15mbd493m2mdg9d97e7tk6rtk0qko7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.idhiniweb",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1098687706274-14mj36irhd3j20pgi6i35lm1rs6lhf7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-nnPzDhckIw1q_gkar6DqcUVt6apu1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098687706274-14mj36irhd3j20pgi6i35lm1rs6lhf7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098687706274-baqrvb24dq3dfub4qkvlta6kadprnnoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.idhiniweb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
