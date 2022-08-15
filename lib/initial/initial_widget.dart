@@ -159,6 +159,11 @@ class _InitialWidgetState extends State<InitialWidget> {
                                               .secondaryBackground,
                                           shape: BoxShape.rectangle,
                                         ),
+                                        child: Text(
+                                          'University of Maryland',
+                                          style: FlutterFlowTheme.of(context)
+                                              .title1,
+                                        ),
                                       ),
                                     ],
                                   ),
